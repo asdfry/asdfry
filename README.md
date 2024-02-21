@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<div>
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=asdfry&show_icons=true" />
+  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdfry&layout=compact" />
+</div>
 <!--
 **asdfry/asdfry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
